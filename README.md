@@ -40,7 +40,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/devo-ahmed-ismail/" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ismail-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011471287921" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ismail-1877f2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011471287921" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ismail-1877f2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/+201092071919" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Ismail-25d366?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 
  
